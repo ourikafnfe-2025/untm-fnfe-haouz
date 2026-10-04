@@ -1,0 +1,20 @@
+{
+  "name": "حاسبة الترقية بالاختيار – UNTM FNFE الحوز",
+  "short_name": "حاسبة الترقية",
+  "description": "حاسبة الترقية بالاختيار – الجامعة الوطنية لموظفي التعليم، المكتب الإقليمي بالحوز",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7f0",
+  "theme_color": "#d4500f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
